@@ -1,1 +1,1 @@
-Add HUB-SDK Docs reference section (#7781)
+Update format.yml to pull_request_target (#7460)
