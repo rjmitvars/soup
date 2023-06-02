@@ -1,1 +1,1 @@
-Replacing Images for torchscript.md (#8596)
+ultralytics 8.0.231 use new pyproject.toml (#7185)
