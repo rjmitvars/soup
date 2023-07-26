@@ -1,1 +1,1 @@
-Replace onnx2tf usage from CLI to Python (#8429)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
