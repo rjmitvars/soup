@@ -1,1 +1,1 @@
-Capitalize OBB acronym (#7383)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
