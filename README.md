@@ -1,1 +1,1 @@
-YOLOv8.1 blog, Explorer notebook and 2023 > 2024 updates (#7469)
+Add HeatMap guide in real-world-projects + Code in Solutions Directory (#6796)
