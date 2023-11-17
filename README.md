@@ -1,1 +1,1 @@
-docs: update view-results-in-terminal.md (#66)
+Add C++ Classify inference example (#6868)
