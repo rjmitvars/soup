@@ -1,1 +1,1 @@
-Fix heatmaps width-height order bug (#7184)
+Add integrations/gradio Docs page (#7935)
