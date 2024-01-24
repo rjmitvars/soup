@@ -1,1 +1,1 @@
-New HUB Cloud Training docs page (#8174)
+Update Twitter icon in Docs (#7711)
