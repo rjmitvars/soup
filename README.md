@@ -1,1 +1,1 @@
-example Google Colab
+Add C++ Classify inference example (#6868)
