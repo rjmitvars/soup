@@ -1,1 +1,1 @@
-Add yolo_bbox2segment docs reference (#7751)
+Fix Multi-GPU resume bug (#7328)
