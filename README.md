@@ -1,1 +1,1 @@
-Update docs building code (#7601)
+Update pyproject.toml and Docs (#7274)
