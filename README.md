@@ -1,1 +1,1 @@
-Update pyproject.toml and Docs (#7274)
+Try Apple M1 runners for Tests and Benchmarks CI (#8162)
