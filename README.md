@@ -1,1 +1,1 @@
-Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
+ultralytics 8.0.228 add training time argument (#7054)
