@@ -1,1 +1,1 @@
-Fix Yolo 8.0.206 scale bug (#7821)
+ultralytics 8.1.1 Docs, Solutions and Export updates (#7545)
